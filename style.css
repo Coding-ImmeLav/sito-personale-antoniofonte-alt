@@ -41,3 +41,17 @@ footer{
 .bodySE{
     background-color: dimgrey;
 }
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+
+}
+.card{
+    height: 100%;
+}
+
+.card-header,.card-footer{
+
+    background-color: transparent;
+    border: none;
+}
